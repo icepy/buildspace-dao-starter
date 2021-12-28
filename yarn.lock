@@ -28,10 +28,10 @@
     "@web3-react/walletlink-connector" "^6.2.8"
     tiny-invariant "^1.2.0"
 
-"@3rdweb/sdk@^1.27.1":
-  version "1.29.8"
-  resolved "https://registry.yarnpkg.com/@3rdweb/sdk/-/sdk-1.29.8.tgz#15b4f51b116e33b0536f08c911cfc141161e72c6"
-  integrity sha512-J9FjCk+r1AJssuKApa3P2/RTN8dIHb1HrgVLHjek2qFHFr4klY2gah951x3O3OV9sb5QbXtejPzGddJziqgGcA==
+"@3rdweb/sdk@^1.29.9":
+  version "1.29.9"
+  resolved "https://registry.yarnpkg.com/@3rdweb/sdk/-/sdk-1.29.9.tgz#39aafe9087645c01ff8708d4434b87183f7aaed1"
+  integrity sha512-xu1+EPhIbWuE0yc4k7dEN0jYFeiThNyYWE1vpqbnGwuNulpFXjs7CkJ8RJiu9uu+WoOKGniUUI/7Jc8uf365fA==
   dependencies:
     "@3rdweb/contracts" "^1.17.1"
     "@ethersproject/bignumber" "^5.5.0"
